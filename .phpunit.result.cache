@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"StringCalculatorTest::testAdd":3,"StringCalculatorTest::test_handle_empty_string":5,"StringCalculatorTest::test_handle_negative_number":3},"times":{"Warning":0.002,"StringCalculatorTest::testAdd":0.002,"StringCalculatorTest::test_handle_empty_string":0.002,"StringCalculatorTest::test_handle_negative_number":0}}
